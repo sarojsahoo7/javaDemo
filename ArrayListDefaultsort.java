@@ -12,6 +12,7 @@ public class ArrayListDefaultsort {
 		ss.add("Jiya");
 		ss.add("lubun");
 		ss.add("Mohit");
+		ss.add("kuni");
 		Collections.sort(ss);
 		System.out.println(ss);
 		
