@@ -10,9 +10,9 @@ public class ArrayListDefaultsort {
 		ss.add("saroj");
 		ss.add("Bapuni");
 		ss.add("Jiya");
-		ss.add("lubun123");
-		ss.add("Mohit123");
-		ss.add("kuni123");
+		ss.add("lubun sahoo");
+		ss.add("Mohit sahoo");
+		ss.add("kuni sahoo");
 		Collections.sort(ss);
 		System.out.println(ss);
 		
