@@ -13,6 +13,7 @@ public class ArrayListDefaultsort {
 		ss.add("lubun sahoo");
 		ss.add("Mohit sahoo");
 		ss.add("kuni sahoo");
+		ss.add("sushil ojha");
 		Collections.sort(ss);
 		System.out.println(ss);
 		
